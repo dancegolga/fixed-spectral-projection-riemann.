@@ -58,3 +58,11 @@ if __name__ == "__main__":
         
     generate_figure_1()
     print("Analysis complete. Figures saved in /figures.")
+
+
+
+if __name__ == "__main__":
+    import os
+    if not os.path.exists('figures'): 
+        os.makedirs('figures') # Этот код САМ создает папку, если её нет
+    generate_publication_figures()

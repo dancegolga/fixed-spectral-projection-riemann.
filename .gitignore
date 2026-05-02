@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Figures and local outputs
+figures/*.png
+figures/*.pdf
+
+# IDE folders
+.vscode/
+.idea/
+
+# Environments
+.env
+venv/
+env/

@@ -1,5 +1,7 @@
 https://github.com/dancegolga/fixed-spectral-projection-riemann./blob/main/docs/%D1%84%D0%B8%D0%BD%D0%B0%D0%BB.pdf
+
 https://doi.org/10.5281/zenodo.19970767
+
 # Fixed spectral projection of the Riemann frequency γ₁ as a low-dimensional model of prime deviation macrodynamics
 
 **Author:** Olga Sheveleva  

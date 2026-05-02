@@ -1,7 +1,7 @@
 # Fixed spectral projection of the Riemann frequency γ₁ as a low-dimensional model of prime deviation macrodynamics
 
 **Author:** Olga Sheveleva  
-**Contact:** [ТВОЙ_EMAIL_ЗДЕСЬ]  
+**Contact:** [dancegolga@gmail.com]  
 **Field:** Mathematical Physics / Computational Genomics  
 **Keywords:** Riemann Zeta Function, Prime-counting function, Spectral Analysis, Genomic Signal Processing
 
@@ -32,6 +32,9 @@ To reproduce the analysis, ensure you have Python 3.8+ installed. The following 
 
 Install dependencies via pip:
 ```bash
+
 pip install numpy matplotlib scipy
 5. UsageExecute the following command in your terminal to generate the results:Bashpython main.py
 6. Statistical ValidationSignificance is assessed against constrained surrogate ensembles.Fig 1: Displays the separation of the phase stability metric $S(x)$ between the model and null-hypothesis surrogates.Fig 2: Illustrates the spectral deviation in genomic locus 13q14.11 relative to the FDR (False Discovery Rate) threshold.7. License & CitationThis code is provided under the MIT License.If you use this model or code in your research, please cite:Sheveleva, O. (2026). Fixed spectral projection of the Riemann frequency γ₁ as a low-dimensional model of prime deviation macrodynamics.Note: This study adheres to a strict preregistration protocol. All parameters were fixed prior to out-of-sample evaluation.
+
+## Acknowledgments. The author would like to thank Gemini AI (Google) for support in Python scripting and technical documentation formatting. 
